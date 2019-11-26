@@ -1,0 +1,2 @@
+# Cipher-message
+ develop a cipher program to encrypt the message. My cipher must rotate every character in the message by a fixed number making it unreadable by enemies.  Given a single line of string 'S' containing alpha, numeric and symbols, followed by a number '0&lt;=N&lt;=1000'. Encrypt and print the resulting string.  Note: The cipher only encrypts Alpha and Numeric. (A-Z, a-z, and 0-9) . All Symbols, such as - , ; %, remain unencrypted.
